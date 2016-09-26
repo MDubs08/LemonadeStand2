@@ -1,0 +1,6 @@
+C:\Users\MDubs\Documents\Visual Studio 2015\Projects\LemonadeStand2\LemonadeStand2\bin\Release\LemonadeStand2.exe.config
+C:\Users\MDubs\Documents\Visual Studio 2015\Projects\LemonadeStand2\LemonadeStand2\bin\Release\LemonadeStand2.exe
+C:\Users\MDubs\Documents\Visual Studio 2015\Projects\LemonadeStand2\LemonadeStand2\bin\Release\LemonadeStand2.pdb
+C:\Users\MDubs\Documents\Visual Studio 2015\Projects\LemonadeStand2\LemonadeStand2\obj\Release\LemonadeStand2.exe
+C:\Users\MDubs\Documents\Visual Studio 2015\Projects\LemonadeStand2\LemonadeStand2\obj\Release\LemonadeStand2.pdb
+C:\Users\MDubs\Documents\Visual Studio 2015\Projects\LemonadeStand2\LemonadeStand2\obj\Release\LemonadeStand2.csprojResolveAssemblyReference.cache
